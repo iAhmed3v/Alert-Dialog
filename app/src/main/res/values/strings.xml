@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">AlertDialog</string>
-    <string name="alert_text">Tap to test alert</string>
+    <string name="alert_text">Tap to test a simple alert</string>
     <string name="alert_btn_text">Alert</string>
     <string name="alert_title_text">Alert</string>
     <string name="alert_message_title">Click OK to continue, or Cancel to stop</string>
     <string name="ok_toast">Pressed OK</string>
     <string name="cancel_toast">Pressed Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_btn_text">Date</string>
+    <string name="date_text">Choose a date</string>
+    <string name="another_btn_text">Try another alert</string>
 </resources>
