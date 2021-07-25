@@ -11,4 +11,7 @@
     <string name="date_btn_text">Date</string>
     <string name="date_text">Choose a date</string>
     <string name="another_btn_text">Try another alert</string>
+    <string name="date_picked_text">Date:</string>
+    <string name="time_text">Choose a Time</string>
+    <string name="time_btn_text">Time</string>
 </resources>
